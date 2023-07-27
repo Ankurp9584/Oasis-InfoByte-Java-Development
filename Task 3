@@ -159,7 +159,7 @@ public class AtmInterface {
 
 	public static void main(String[] args) {
 
-		System.out.println("\nWELCOME TO ADITYA ATM SYSTEM\n");
+		System.out.println("\nWELCOME TO ATM SYSTEM\n");
 		System.out.println("1.Register");
 		System.out.println("2.Quit");
 		System.out.print("Enter Your Choice : ");
